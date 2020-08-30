@@ -1,0 +1,1 @@
+# isbn-algorithmique-parallele-2-10-006531-9
